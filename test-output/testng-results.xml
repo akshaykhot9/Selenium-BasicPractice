@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-21T13:36:57 IST" name="Suite" finished-at="2022-05-21T13:39:04 IST" duration-ms="126658">
+    <groups>
+    </groups>
+    <test started-at="2022-05-21T13:36:57 IST" name="Test" finished-at="2022-05-21T13:39:04 IST" duration-ms="126658">
+      <class name="testNg.Ex">
+        <test-method signature="TestCase1()[pri:0, instance:testNg.Ex@6cf0e0ba]" started-at="2022-05-21T13:39:04 IST" name="TestCase1" finished-at="2022-05-21T13:39:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method signature="TestSample()[pri:0, instance:testNg.Ex@6cf0e0ba]" started-at="2022-05-21T13:39:04 IST" name="TestSample" finished-at="2022-05-21T13:39:04 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSample -->
+      </class> <!-- testNg.Ex -->
+      <class name="testNg.NewTest2">
+        <test-method is-config="true" signature="testCase1()[pri:0, instance:testNg.NewTest2@4f83df68]" started-at="2022-05-21T13:37:46 IST" name="testCase1" finished-at="2022-05-21T13:39:04 IST" duration-ms="78382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase()[pri:0, instance:testNg.NewTest2@4f83df68]" started-at="2022-05-21T13:39:04 IST" name="testCase" finished-at="2022-05-21T13:39:04 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+      </class> <!-- testNg.NewTest2 -->
+      <class name="testNg.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNg.NewTest@67c27493]" started-at="2022-05-21T13:36:57 IST" name="beforeClass" finished-at="2022-05-21T13:37:45 IST" duration-ms="48004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="testcase()[pri:0, instance:testNg.NewTest@67c27493]" started-at="2022-05-21T13:37:45 IST" name="testcase" finished-at="2022-05-21T13:37:46 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- testNg.NewTest -->
+      <class name="testNg.NewTest1">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:36:57 IST" name="beforeSuite" finished-at="2022-05-21T13:36:57 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:36:57 IST" name="beforeTest" finished-at="2022-05-21T13:36:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="beforeClass" finished-at="2022-05-21T13:39:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="beforeMethod" finished-at="2022-05-21T13:39:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="firstTestExamlpe()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="firstTestExamlpe" finished-at="2022-05-21T13:39:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestExamlpe -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="afterClass" finished-at="2022-05-21T13:39:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="afterMethod" finished-at="2022-05-21T13:39:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:04 IST" name="afterTest" finished-at="2022-05-21T13:39:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testNg.NewTest1@38d8f54a]" started-at="2022-05-21T13:39:06 IST" name="afterSuite" finished-at="2022-05-21T13:39:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testNg.NewTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
